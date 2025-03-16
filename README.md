@@ -39,6 +39,6 @@ A web-based healthcare translation app built with Flask that provides real-time 
    pip install -r requirements.txt
    ```
 4. Set **Environment Variables**:
-   - `OPENAI_API_KEY`
+   - `GEMINI_API_KEY`
 5. Deploy and use the app!
 
