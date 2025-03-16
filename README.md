@@ -4,7 +4,7 @@ A web-based healthcare translation app built with Flask that provides real-time 
 
 ## Features
 - **Speech-to-Text**: Convert spoken input into a text transcript.
-- **Translation**: Translate text using OpenAI API.
+- **Translation**: Translate text using Gemini API.
 - **Text-to-Speech**: Play translated text as speech.
 - **Mobile-Friendly**: Responsive design.
 
@@ -24,7 +24,7 @@ A web-based healthcare translation app built with Flask that provides real-time 
    ```
 3. Set OpenAI API Key in `.env`:
    ```sh
-   OPENAI_API_KEY=your_openai_api_key_here
+   GEMINI_API_KEY=your_gemini_api_key_here
    ```
 4. Run the Flask app:
    ```sh
